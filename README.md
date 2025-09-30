@@ -4,6 +4,7 @@ Welcome to my GitHub profile!
 I'm passionate about programming, problem-solving, and building cool projects. I love exploring new technologies and constantly seek to improve my skills.
 
 ---
+(https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ## 🚀 My Activities
 
