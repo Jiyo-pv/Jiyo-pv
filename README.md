@@ -33,6 +33,11 @@ I'm passionate about programming, problem-solving, and building cool projects. I
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
+$ git clone https://github.com/Jiyo-pv/DS
+$ cd DS
+$ make run          # C/C++ programs
+$ java Main.java    # Java programs
+
 
 ## 🌱 What I'm learning right now
 
