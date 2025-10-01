@@ -26,10 +26,11 @@ I'm passionate about programming, problem-solving, and building cool projects. I
 
 ## 🛠️ Languages & Tools
 
-- C, C++
-- Python
-- Data Structures & Algorithms
-- Git & GitHub
+![C++](https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=c%2B%2B)  
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
