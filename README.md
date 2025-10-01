@@ -49,7 +49,7 @@ You can also reach me through my social handles:
 
 ---
 <div>
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jiyo-pv/jiyo-pv/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 Thanks for stopping by! ✨  
