@@ -48,7 +48,7 @@ You can also reach me through my social handles:
 - [X (Twitter)](https://x.com/jiyo5436)
 
 ---
-[Snake animation](https://raw.githubusercontent.com/Jiyo-pv/Jiyo-pv/output/github-contribution-grid-snake.svg)
+<img src='(https://raw.githubusercontent.com/Jiyo-pv/Jiyo-pv/output/github-contribution-grid-snake.svg)'>
 
 
 
