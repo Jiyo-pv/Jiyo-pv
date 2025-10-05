@@ -1,62 +1,77 @@
-# Hi there, I'm Jiyo! 👋
+<div align="center">
 
-Welcome to my GitHub profile!  
-I'm passionate about programming, problem-solving, and building cool projects. I love exploring new technologies and constantly seek to improve my skills.
+# 👋 Hi there, I'm Jiyo!  
+_Aspiring Software Engineer | Problem Solver | Tech Explorer_
 
----
+✨ Welcome to my GitHub profile!  
+I’m passionate about programming, problem-solving, and building cool projects.  
+Always curious, always learning. 🚀
 
-## 🚀 My Activities
-
-- [**HackerRank**](https://github.com/Jiyo-pv/HackerRank)  
-  Solutions to various coding challenges—sharpening my problem-solving skills one problem at a time!
-
-- [**DS**](https://github.com/Jiyo-pv/DS)  
-  Data Structures implementations, with a focus on learning core CS concepts through code.
-
-- [**GAMES**](https://github.com/Jiyo-pv/GAMES)  
-  A collection of fun games I've built—because learning is best when it's also fun!
-
-- [**LIBRARY-SYSTEM**](https://github.com/Jiyo-pv/LIBRARY-SYSTEM)  
-  A simple library management system—practicing organization and logic in software design.
-
-- [**Programming in C**](https://github.com/Jiyo-pv/-programming-in-C)  
-  My journey with the C programming language—classic, powerful, and foundational.
+</div>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🚀 Featured Projects  
+
+- 🎯 [**HackerRank**](https://github.com/Jiyo-pv/HackerRank) – Coding challenge solutions to sharpen problem-solving skills.  
+- 🏗️ [**DS**](https://github.com/Jiyo-pv/DS) – Data structures implementations for core CS concepts.  
+- 🎮 [**GAMES**](https://github.com/Jiyo-pv/GAMES) – Fun games I’ve built while learning.  
+- 📚 [**LIBRARY-SYSTEM**](https://github.com/Jiyo-pv/LIBRARY-SYSTEM) – A simple library management system.  
+- ⚡ [**Programming in C**](https://github.com/Jiyo-pv/-programming-in-C) – My journey into classic C programming.  
+
+---
+
+## 🛠️ Languages & Tools  
+
+<div align="center">
 
 ![C++](https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=c%2B%2B)  
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+
+</div>
 
 ---
 
+## 🌱 Currently Learning  
 
-## 🌱 What I'm learning right now
+Improving my algorithmic thinking and exploring new programming languages & frameworks.  
 
-I'm always working on improving my algorithmic thinking and exploring new programming languages and frameworks.
+---
+
+## 📊 GitHub Highlights  
+
+<div align="center">
+
+![Jiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyo-pv&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyo-pv&layout=compact&theme=radical)  
+
+</div>
 
 ---
 
-## 📫 How to reach me
+## 📫 Connect with Me  
 
-Feel free to connect with me here on GitHub!  
-You can also reach me through my social handles:
+<div align="center">
 
-- [LinkedIn](https://www.linkedin.com/in/jiyo-p-v/)
-- [X (Twitter)](https://x.com/jiyo5436)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiyo-p-v/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jiyo5436)  
+
+</div>
 
 ---
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jiyo-pv/Jiyo-pv/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jiyo-pv/Jiyo-pv/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Jiyo-pv/Jiyo-pv/output/github-contribution-grid-snake.svg" />
 </picture>
 
+✨ Thanks for stopping by! ✨  
+_Happy coding!_ 🚀  
 
-
-Thanks for stopping by! ✨  
-Happy coding! 🚀
+</div>
