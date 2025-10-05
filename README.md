@@ -25,7 +25,7 @@ Always curious, always learning. 🚀
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=c%2B%2B)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
