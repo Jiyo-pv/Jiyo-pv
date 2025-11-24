@@ -47,7 +47,8 @@ Improving my algorithmic thinking and exploring new programming languages & fram
 
 ![Jiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyo-pv&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyo-pv&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=jiyo-pv)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jiyo-pv&theme=dark)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=jiyo-pv)
 ![GitHub Followers](https://img.shields.io/github/followers/jiyo-pv?style=social)
 
