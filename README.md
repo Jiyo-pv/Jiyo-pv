@@ -47,8 +47,12 @@ Always curious, always learning. 🚀
 
 <div align="center">
 
-![Jiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyo-pv&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyo-pv&layout=compact&theme=radical)  
+<!-- GitHub Stats -->
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
+
+<!-- Top Languages -->
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/YOUR_USERNAME)
+
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jiyo-pv&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jiyo-pv)  
