@@ -4,7 +4,7 @@
 _Aspiring Software Engineer | Problem Solver | Tech Explorer_
 
 ✨ Welcome to my GitHub profile!  
-I’m passionate about programming, problem-solving, and building cool projects.  
+I’m passionate about programming, problem-solving, and building innovative projects.  
 Always curious, always learning. 🚀
 
 </div>
@@ -14,8 +14,8 @@ Always curious, always learning. 🚀
 ## 🚀 Featured Projects  
 
 - 🎯 [**HackerRank**](https://github.com/Jiyo-pv/HackerRank) – Coding challenge solutions to sharpen problem-solving skills.  
-- 🏗️ [**DS**](https://github.com/Jiyo-pv/DS) – Data structures implementations for core CS concepts.  
-- 🎮 [**GAMES**](https://github.com/Jiyo-pv/GAMES) – Fun games I’ve built while learning.  
+- 🏗️ [**DS**](https://github.com/Jiyo-pv/DS) – Implementations of core data structures for computer science concepts.  
+- 🎮 [**GAMES**](https://github.com/Jiyo-pv/GAMES) – Fun games I’ve built while exploring programming.  
 - 📚 [**LIBRARY-SYSTEM**](https://github.com/Jiyo-pv/LIBRARY-SYSTEM) – A simple library management system.  
 - ⚡ [**Programming in C**](https://github.com/Jiyo-pv/-programming-in-C) – My journey into classic C programming.  
 
@@ -37,7 +37,9 @@ Always curious, always learning. 🚀
 
 ## 🌱 Currently Learning  
 
-Improving my algorithmic thinking and exploring new programming languages & frameworks.  
+- Enhancing algorithmic thinking and problem-solving skills  
+- Exploring new programming languages and frameworks  
+- Building full-stack projects  
 
 ---
 
@@ -46,12 +48,11 @@ Improving my algorithmic thinking and exploring new programming languages & fram
 <div align="center">
 
 ![Jiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyo-pv&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyo-pv&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyo-pv&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=jiyo-pv&theme=dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=jiyo-pv)
+![Profile Views](https://komarev.com/ghpvc/?username=jiyo-pv)  
 ![GitHub Followers](https://img.shields.io/github/followers/jiyo-pv?style=social)
-
 
 </div>
 
@@ -69,14 +70,16 @@ Improving my algorithmic thinking and exploring new programming languages & fram
 ---
 
 <div align="center">
-This snake is eating my contributions!!
+
+### 🐍 GitHub Contributions Snake  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jiyo-pv/Jiyo-pv/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jiyo-pv/Jiyo-pv/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Jiyo-pv/Jiyo-pv/output/github-contribution-grid-snake.svg" />
 </picture>
 
-✨ Thanks for stopping by! ✨  
+✨ Thanks for stopping by!  
 _Happy coding!_ 🚀  
 
 </div>
