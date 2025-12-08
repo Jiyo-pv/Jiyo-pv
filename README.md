@@ -23,9 +23,35 @@ Always curious, always learning. 🚀
 
 ## 🛠️ Languages & Tools  
 
-<div align="center">
+<!-- 🌟 TECH STACK WITH ANIMATIONS & SEPARATORS -->
+<style>
+.badge-container img {
+  transition: transform 0.18s ease-in-out, filter 0.18s ease-in-out;
+}
+.badge-container img:hover {
+  transform: scale(1.08);
+  filter: brightness(1.25);
+}
+.fade-in {
+  animation: fadeIn 1.2s ease-in-out;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+</style>
+
+<div align="center" class="fade-in">
+
+## 🧰 Tech Stack  
+### *Languages, Frameworks, Databases & Tools I Work With*
+
+---
+
+<div class="badge-container">
 
 <!-- Programming Languages -->
+### 🔹 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,7 +59,10 @@ Always curious, always learning. 🚀
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+---
+
 <!-- Frameworks -->
+### 🔹 Frameworks & UI
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -41,17 +70,28 @@ Always curious, always learning. 🚀
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 
+---
+
 <!-- Databases -->
+### 🔹 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+---
+
 <!-- Tools -->
+### 🔹 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 </div>
+
+---
+
+</div>
+
 
 
 ---
